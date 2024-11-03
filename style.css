@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to left,  #fad0c4,  #ffecd2 );
+}
+
+.heading {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 90px;
+    color: #fff;
+    background-color: black;
+    padding:15px;
+} 
+form{
+    margin-bottom:50px  ;
+    margin-left:450px ;
+}
+
+.btn{
+    margin-left:460px ;
+    padding: 9px;
+    margin-bottom: 30px;
+    
+
+}
+
+button{
+    color: #fff;
+    background-color: black;
+    margin-left: 5px;
+    
+}
+button:hover{
+        background-color: rgb(113, 16, 16);
+
+    }
+.ul{
+    margin-left:420px ;
+
+}
+input{
+    width: 500px;
+    padding: 10px;
+}
